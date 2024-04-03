@@ -2,7 +2,7 @@
 - 👀 I’m interested in c,java,pyhton,js
 - 🌱 I’m currently in university for PhD in computer engineering
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ahmetardaorak@gmail.com
+- 📫 How to reach me linkedin.com/in/ahmetardaorak
 - ⚡ Fun fact: its my new acc
 
 <!---
