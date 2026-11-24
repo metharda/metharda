@@ -3,11 +3,13 @@ import datetime
 import pathlib
 import re
 
+START = datetime.date(2026, 11, 24)  # ART[0] is shown on this day, then one step per day
+
 ART = [
+    ("creation-of-adam", "The Creation of Adam", "Michelangelo, c. 1512"),
     ("ideal-city-urbino", "The Ideal City", "Urbino school, c. 1480"),
     ("delivery-of-the-keys", "Delivery of the Keys", "Perugino, 1482"),
     ("hunters-in-the-snow", "Hunters in the Snow", "Pieter Bruegel the Elder, 1565"),
-    ("creation-of-adam", "The Creation of Adam", "Michelangelo, c. 1512"),
     ("architectural-veduta", "Architectural Veduta", "attr. Francesco di Giorgio Martini, c. 1490"),
     ("school-of-athens", "The School of Athens", "Raphael, 1511"),
     ("last-supper", "The Last Supper", "Leonardo da Vinci, c. 1498"),
@@ -20,7 +22,7 @@ ART = [
     ("tower-of-babel", "The Tower of Babel", "Pieter Bruegel the Elder, 1563"),
 ]
 
-slug, title, by = ART[datetime.date.today().toordinal() % len(ART)]
+slug, title, by = ART[(datetime.date.today() - START).days % len(ART)]
 block = f"""<!-- art:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/{slug}-dark.png">
