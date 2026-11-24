@@ -1,9 +1,11 @@
 <!-- art:start -->
+<a href="art/full/creation-of-adam-light.png">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/creation-of-adam-dark.png">
   <img alt="The Creation of Adam by Michelangelo, c. 1512, as ASCII art" src="art/creation-of-adam-light.png">
 </picture>
-<sub><i>The Creation of Adam, Michelangelo, c. 1512</i></sub>
+</a>
+<sub><i>The Creation of Adam, Michelangelo, c. 1512 · <a href="art/full">full size</a></i></sub>
 <!-- art:end -->
 
 ### hi, i'm arda

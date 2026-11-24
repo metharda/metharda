@@ -24,11 +24,13 @@ ART = [
 
 slug, title, by = ART[(datetime.date.today() - START).days % len(ART)]
 block = f"""<!-- art:start -->
+<a href="art/full/{slug}-light.png">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/{slug}-dark.png">
   <img alt="{title} by {by}, as ASCII art" src="art/{slug}-light.png">
 </picture>
-<sub><i>{title}, {by}</i></sub>
+</a>
+<sub><i>{title}, {by} · <a href="art/full">full size</a></i></sub>
 <!-- art:end -->"""
 
 readme = pathlib.Path(__file__).resolve().parent.parent / "README.md"
