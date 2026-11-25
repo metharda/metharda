@@ -1,11 +1,11 @@
 <!-- art:start -->
-<a href="art/full/creation-of-adam-light.png">
+<a href="art/full/ideal-city-urbino-light.png">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/creation-of-adam-dark.png">
-  <img alt="The Creation of Adam by Michelangelo, c. 1512, as ASCII art" src="art/creation-of-adam-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="art/ideal-city-urbino-dark.png">
+  <img alt="The Ideal City by Urbino school, c. 1480, as ASCII art" src="art/ideal-city-urbino-light.png">
 </picture>
 </a>
-<sub><i>The Creation of Adam, Michelangelo, c. 1512 · <a href="art/full">full size</a></i></sub>
+<sub><i>The Ideal City, Urbino school, c. 1480 · <a href="art/full">full size</a></i></sub>
 <!-- art:end -->
 
 ### hi, i'm arda
