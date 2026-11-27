@@ -1,11 +1,11 @@
 <!-- art:start -->
-<a href="art/full/delivery-of-the-keys-light.png">
+<a href="art/full/hunters-in-the-snow-light.png">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/delivery-of-the-keys-dark.png">
-  <img alt="Delivery of the Keys by Perugino, 1482, as ASCII art" src="art/delivery-of-the-keys-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="art/hunters-in-the-snow-dark.png">
+  <img alt="Hunters in the Snow by Pieter Bruegel the Elder, 1565, as ASCII art" src="art/hunters-in-the-snow-light.png">
 </picture>
 </a>
-<sub><i>Delivery of the Keys, Perugino, 1482 · <a href="art/full">full size</a></i></sub>
+<sub><i>Hunters in the Snow, Pieter Bruegel the Elder, 1565 · <a href="art/full">full size</a></i></sub>
 <!-- art:end -->
 
 ### hi, i'm arda
