@@ -1,11 +1,11 @@
 <!-- art:start -->
-<a href="art/full/hunters-in-the-snow-light.png">
+<a href="art/full/architectural-veduta-light.png">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/hunters-in-the-snow-dark.png">
-  <img alt="Hunters in the Snow by Pieter Bruegel the Elder, 1565, as ASCII art" src="art/hunters-in-the-snow-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="art/architectural-veduta-dark.png">
+  <img alt="Architectural Veduta by attr. Francesco di Giorgio Martini, c. 1490, as ASCII art" src="art/architectural-veduta-light.png">
 </picture>
 </a>
-<sub><i>Hunters in the Snow, Pieter Bruegel the Elder, 1565 · <a href="art/full">full size</a></i></sub>
+<sub><i>Architectural Veduta, attr. Francesco di Giorgio Martini, c. 1490 · <a href="art/full">full size</a></i></sub>
 <!-- art:end -->
 
 ### hi, i'm arda
